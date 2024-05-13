@@ -28,7 +28,8 @@ This repository contains:
 - **Course Notes:** Access supplementary materials and detailed explanations to complement your learning journey.
 
 ## Instructor Acknowledgement
-Thanks to [Harrison Chase], cofounder and CEO of LangChain for offering this course
+
+Thanks to Harrison Chase, cofounder and CEO of LangChain for offering this course!
 ---
 
 Feel free to dive into the notebooks and notes to enhance your understanding of LangChain concepts! 📚💻
