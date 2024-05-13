@@ -25,7 +25,8 @@ Start your journey into practical applications that enable you to interact with 
 This repository contains:
 
 - **Course Notebooks:** Explore the practical exercises and examples provided in the course through interactive Jupyter notebooks.
-- **Course Notes:** Access supplementary materials and detailed explanations to complement your learning journey.
+- **Course Data:** Documents and additional resources used throughout the course for hands-on learning experiences.
+- **Course Notes:** Personal notes from taking the course.
 
 ## Instructor Acknowledgement
 Thanks to Harrison Chase, cofounder and CEO of LangChain for offering this course!
