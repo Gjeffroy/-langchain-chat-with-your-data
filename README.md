@@ -1,6 +1,6 @@
 # LangChain: Chat With Your Data! 🤖🔍
 
-Welcome to the LangChain course repository! This repository contains all the course materials for "LangChain: Chat with Your Data", an immersive dive into Retrieval Augmented Generation (RAG) and building chatbots that interact with your data.
+This repository contains all the course materials for "LangChain: Chat with Your Data", an immersive dive into Retrieval Augmented Generation (RAG) and building chatbots that interact with your data.
 
 ## Course Overview
 
@@ -31,6 +31,4 @@ This repository contains:
 ## Instructor Acknowledgement
 Thanks to Harrison Chase, cofounder and CEO of LangChain for offering this course!
 
----
 
-Feel free to dive into the notebooks and notes to enhance your understanding of LangChain concepts! 📚💻
