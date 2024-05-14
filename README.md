@@ -1,4 +1,4 @@
-# LangChain: Chat With Your Data! 🤖🔍
+# [LangChain: Chat With Your Data!](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) 🤖🔍
 
 This repository contains all the course materials for "LangChain: Chat with Your Data", an immersive dive into Retrieval Augmented Generation (RAG) and building chatbots that interact with your data.
 
